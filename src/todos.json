@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "title": "Task 1",
+            "responsable": "Sam",
+            "description": "Check pluguin updates",
+            "priority": "low"
+        },
+        {
+            "title": "Task 2",
+            "responsable": "Cris",
+            "description": "Create the new MockUp",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 3",
+            "responsable": "David",
+            "description": "Call the client",
+            "priority": "high"
+        }
+    ]
+}
